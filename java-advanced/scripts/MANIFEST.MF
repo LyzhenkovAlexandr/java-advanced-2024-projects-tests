@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 21.0.2 (Eclipse Adoptium)
+Main-Class: info.kgeorgiy.ja.lyzhenkov.implementor.Implementor
+Class-Path: ../../java-advanced-2024/artifacts/info.kgeorgiy.java.advanced.implementor.jar
